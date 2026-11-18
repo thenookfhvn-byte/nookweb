@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BuqwL3YU.js";import{r as t}from"./index-bjjo3wQP.js";import{r as n}from"./encyclopedia-CwyvHZ5S.js";var r=e();function i(){let{page:e}=t.useLoaderData();return(0,r.jsx)(n,{shop:`fairhaven`,kind:`food`,page:e})}export{i as component};

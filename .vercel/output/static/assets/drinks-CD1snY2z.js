@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BuqwL3YU.js";import{a as t}from"./index-bjjo3wQP.js";import{t as n}from"./classic-DsAD7650.js";var r=e(),i=()=>(0,r.jsx)(t,{kicker:`Fairhaven`,title:`The Drink Menu`,items:n.drinks});export{i as component};

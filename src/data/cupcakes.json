@@ -1,0 +1,47 @@
+[
+  {
+    "src": "/cupcakes/pumpkin.jpg",
+    "alt": "A pumpkin cupcake in a gold wrapper, cream frosting, pecan crumbs, and a pumpkin behind it",
+    "caption": "Pecans, and a pumpkin"
+  },
+  {
+    "src": "/cupcakes/brittle.jpg",
+    "alt": "A cupcake with a pale swirl of frosting and shards of nut brittle on the plate",
+    "caption": "A swirl, and brittle"
+  },
+  {
+    "src": "/cupcakes/halloween.jpg",
+    "alt": "Two cupcakes on a tray, one green with candy bones and one pink with sprinkles",
+    "caption": "Green and pink, for a dark night"
+  },
+  {
+    "src": "/cupcakes/skulls.jpg",
+    "alt": "A box of cupcakes in black and red frosting, each topped with a white chocolate skull",
+    "caption": "A dozen, each with a skull"
+  },
+  {
+    "src": "/cupcakes/roses.jpg",
+    "alt": "A close view of cupcakes piped in pink and yellow rosettes",
+    "caption": "Pink and yellow rosettes"
+  },
+  {
+    "src": "/cupcakes/bees.jpg",
+    "alt": "Yellow cupcakes topped with little bees and pieces of honeycomb",
+    "caption": "Bees and honeycomb"
+  },
+  {
+    "src": "/cupcakes/sprinkles.jpg",
+    "alt": "Cupcakes in purple, pink, and white frosting, covered in sprinkles and a pink pearl",
+    "caption": "Purple, pink, and white"
+  },
+  {
+    "src": "/cupcakes/thirty.jpg",
+    "alt": "Pink cupcakes in a box, one topped with a gold number 30",
+    "caption": "A gold 30"
+  },
+  {
+    "src": "/cupcakes/shells.jpg",
+    "alt": "Mint green cupcakes with seashells, gold stars, and blue sprinkles",
+    "caption": "Shells and a little gold"
+  }
+]

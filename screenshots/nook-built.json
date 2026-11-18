@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Nook CoffeeHouse – Fairhaven & Plymouth",
+      "hasCanvas": false,
+      "bodyTextLen": 184,
+      "bodyTextHash": "f68a17abc80f752a874db997003a0c498c4d0acb37a7d945bd406eb87fc27d08",
+      "bodyTextPrefix": "FAIRHAVEN PLYMOUTH MASSACHUSETTS FAIRHAVEN The Nook CoffeeHouse ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/nook-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Nook CoffeeHouse – Fairhaven & Plymouth",
+      "hasCanvas": false,
+      "bodyTextLen": 184,
+      "bodyTextHash": "f68a17abc80f752a874db997003a0c498c4d0acb37a7d945bd406eb87fc27d08",
+      "bodyTextPrefix": "FAIRHAVEN PLYMOUTH MASSACHUSETTS FAIRHAVEN The Nook CoffeeHouse ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/nook-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/nook-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BuqwL3YU.js";import{t}from"./encyclopedia-CwyvHZ5S.js";var n=e(),r=()=>(0,n.jsx)(t,{shop:`plymouth`});export{r as component};
